@@ -42,9 +42,11 @@ The extracted features from the backbone pass into a two-block network which is 
 <p align="center">
 <img src="https://github.com/farhantandia/Lightweight-Multi-Task-DNN-Project-and-Benchmark/blob/main/results_utkface.PNG"><br>
 </p>
-* *approximate parameters based on their backbone*
-# Reference
+*approximate parameters based on their backbone
+
+### Benchmark References
 <pre>
+
 [53] A. Berg, M. Oskarsson, and M. O’Connor, “Deep ordinal regression with label diversity,”
 [56] Karen Simonyan∗ & Andrew Zisserman+, “VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION Karen,”
 [49] A. Kozlov, V. Andronov, and Y. Gritsenko, “Lightweight network architecture for real-time action recognition,” 
@@ -55,4 +57,5 @@ The extracted features from the backbone pass into a two-block network which is 
 [61] R. Rothe, R. Timofte, and L. Van Gool, “DEX: Deep EXpectation of Apparent Age from a Single Image,”
 [62] F. Schroff, D. Kalenichenko, and J. Philbin, “FaceNet: A unified embedding for face recognition and clustering,”
 [54] A. V. Savchenko, “Facial expression and attributes recognition based on multi-task learning of lightweight neural networks,” 
+
 </pre>
