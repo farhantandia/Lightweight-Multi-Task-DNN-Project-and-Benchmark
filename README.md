@@ -42,5 +42,5 @@ The extracted features from the backbone pass into a two-block network which is 
 <p align="center">
 <img src="https://github.com/farhantandia/Lightweight-Multi-Task-DNN-Project-and-Benchmark/blob/main/results_utkface.PNG"><br>
 </p>
-* *approximate parameters based on their backbone
+*approximate parameters based on their backbone
 
