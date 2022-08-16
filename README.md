@@ -45,7 +45,7 @@ The extracted features from the backbone pass into a two-block network which is 
 *approximate parameters based on their backbone
 
 ### Demo
-<Click [here](https://youtu.be/CrzZb7IA-vc) to see the sample demo result
+Click [here](https://youtu.be/CrzZb7IA-vc) to see the sample demo result
 
 ### Benchmark References
 
