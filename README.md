@@ -47,6 +47,9 @@ The extracted features from the backbone pass into a two-block network which is 
 ### Benchmark References
 <pre>
 
+### Demo
+Click [here](https://youtu.be/CrzZb7IA-vc) to see the sample demo result
+
 [53] A. Berg, M. Oskarsson, and M. O’Connor, “Deep ordinal regression with label diversity,”
 [56] Karen Simonyan∗ & Andrew Zisserman+, “VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION Karen,”
 [49] A. Kozlov, V. Andronov, and Y. Gritsenko, “Lightweight network architecture for real-time action recognition,” 
